@@ -136,3 +136,6 @@ data/processed/
 # PyCharm
 .idea/
 
+# Models
+saved_model/
+
